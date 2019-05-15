@@ -1,0 +1,601 @@
+{
+	"folder_history":
+	[
+		"/C/xampp/htdocs/cv",
+		"/C/xampp/htdocs/cpmnew",
+		"/C/xampp/htdocs/budget",
+		"/C/xampp/htdocs/ebudgeting",
+		"/C/xampp/htdocs/pegawai",
+		"/C/xampp/htdocs/pensiun",
+		"/C/xampp/htdocs/app-percetakan-master",
+		"/C/xampp/htdocs/advert",
+		"/C/xampp/htdocs/percetakan",
+		"/C/xampp/htdocs/contoh",
+		"/C/xampp/htdocs/swarakalibata_ci",
+		"/C/xampp/htdocs/simanis-master",
+		"/C/xampp/htdocs/swarakalibata-v3-full",
+		"/C/xampp/htdocs/absensi",
+		"/C/xampp/htdocs/absensi2014",
+		"/C/xampp/htdocs/nilai",
+		"/F/big bos/absensi2014",
+		"/F/USBWebserver/root/asokatama"
+	],
+	"last_window_id": 23,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"nilai",
+						"nilai"
+					],
+					[
+						"Kode",
+						"kodepelajaran"
+					],
+					[
+						"is",
+						"isinilai"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/htdocs/absensi2014/asset/css/style.css",
+				"/C/xampp/htdocs/absensi2014/application/config/database.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"absen",
+					"siswa",
+					"absen",
+					"terlambat",
+					"kelas",
+					"siswa",
+					"nis",
+					"kelas",
+					"siswa",
+					"kelas",
+					"nis",
+					"siswa",
+					"nis",
+					"nilai",
+					"kelas",
+					"siswa",
+					"nis",
+					"siswa",
+					"kelas",
+					"siswa",
+					"kelas"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"nilai",
+						"nilai"
+					],
+					[
+						"Kode",
+						"kodepelajaran"
+					],
+					[
+						"is",
+						"isinilai"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "html	",
+					"file": "/C/xampp/htdocs/cv/rumahngoding",
+					"file_size": 6,
+					"file_write_time": 131478434903814436,
+					"settings":
+					{
+						"buffer_size": 5,
+						"line_ending": "Windows",
+						"name": "html"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>About - Tentang Saya</title>\n\n    <!-- Bootstrap core CSS -->\n    <link href=\"css/bootstrap.css\" rel=\"stylesheet\">\n\n    <!-- Add custom CSS here -->\n    <link href=\"css/business-casual.css\" rel=\"stylesheet\">\n</head>\nhtml\n<body>\n\n    <div class=\"brand\">Tentang Saya</div>\n    <div class=\"address-bar\">Jalan H Batong III/39 Cilandak | Jakarta Selatan | arifinm62@gmail.com | 08561386256</div>\n\n    <nav class=\"navbar navbar-default\" role=\"navigation\">\n        <div class=\"container\">\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-ex1-collapse\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"index.html\">Tentang saya</a>\n            </div>\n\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse navbar-ex1-collapse\">\n                <ul class=\"nav navbar-nav\">\n                    <li><a href=\"index.html\">Beranda</a>\n                    </li>\n                    <li><a href=\"about.html\">Tentang Saya</a>\n                    </li>\n                    <li><a href=\"blog.html\">Halaman Posting</a>\n                    </li>\n                    <li><a href=\"contact.html\">Kontak</a>\n                    </li>\n                     <li><a href=\"portofolio.html\">portofolio</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container -->\n    </nav>\n\n    <div class=\"container\">\n\n        <div class=\"row\">\n            <div class=\"box\">\n                <div class=\"col-lg-12\">\n                    <hr>\n                    <h2 class=\"intro-text text-center\">Tentang <strong>Saya</strong>\n                    </h2>\n                    <hr>\n                </div>\n                <div class=\"col-md-6\">\n                    <img class=\"img-responsive img-border-left\" src=\"img/lipi.jpg\" alt=\"\">\n                </div>\n                <div class=\"col-md-6\">\n                    <p>Setelah lulus dari SMK pada Juni 2010 saya bekerja pada sebuah Industri Tekstil yang bernama PT Sritex di Sukoharjo ,Jawa Tengah.\n					Saya bekerja selama 9 bulan. Setelah itu saya bekerja di Jakarta mulai bulan Maret 2011 di Industri pembuatan kaca yaitu PT Asahimas Flat Glass Tbk. Di awal saya bekerja disana saya bekerja sebagai karyawan outsourcing ,alhamdulilah atas kerja keras dan doa akhirnya pada bulan Juni 2013 saya diangkat menjadi karyawan PT Asahimas Flat Glass Tbk, dan kemudian di jadikan karyawan tetap pada bulan Juli 2013 sampai sekarang.</p>\n                    <p>Karena saya sangat tertarik pada teknologi khususnya di bidang IT ,maka pada Oktober 2013 saya memutuskan untuk melanjutkan jenjang pendidikan saya ke S1 di STMIK MUhammadiyah Jakarta. Harapannya saya ingin lebih tahu dan bisa membuat aplikasi (software),Website,dll. Motto hidup saya ialah \"Mujhid Muzhid\" yang artinya kerja giat dan hidup sederhana.</p>\n                </div>\n                <div class=\"clearfix\"></div>\n            </div>\n        </div>\n\n    <!-- /.container -->\n\n    <footer>\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12 text-center\">\n                    <p>Copyright &copy; Muhammad Arifin Nursalim</p>\n                </div>\n            </div>\n        </div>\n    </footer>\n\n    <!-- JavaScript -->\n    <script src=\"js/jquery-1.10.2.js\"></script>\n    <script src=\"js/bootstrap.js\"></script>\n\n</body>\n\n</html>\n",
+					"file": "/C/xampp/htdocs/cv/about.html",
+					"file_size": 4073,
+					"file_write_time": 131478434557320517,
+					"settings":
+					{
+						"buffer_size": 3981,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/big bos/cv/Data/Packages/Default/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 13677,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/big bos/cv/Data/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 23,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>About - Tentang Saya</title>\n\n    <!-- Bootstrap core CSS -->\n    <link href=\"css/bootstrap.css\" rel=\"stylesheet\">\n\n    <!-- Add custom CSS here -->\n    <link href=\"css/business-casual.css\" rel=\"stylesheet\">\n</head>\n\n<body>\n\n    <div class=\"brand\">Post</div>\n    <div class=\"address-bar\">Jalan H Batong III/39 Cilandak | Jakarta Selatan | arifinm62@gmail.com | 08561386256</div>\n\n    <nav class=\"navbar navbar-default\" role=\"navigation\">\n        <div class=\"container\">\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-ex1-collapse\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"index.html\">Post</a>\n            </div>\n\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse navbar-ex1-collapse\">\n                <ul class=\"nav navbar-nav\">\n                    <li><a href=\"index.html\">Beranda</a>\n                    </li>\n                    <li><a href=\"about.html\">Tentang Saya</a>\n                    </li>\n                    <li><a href=\"blog.html\">Halaman Posting</a>\n                    </li>\n                    <li><a href=\"contact.html\">Kontak</a>\n                    </li>\n                     <li><a href=\"portofolio.html\">portofolio</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container -->\n    </nav>\n\n\n\n                    <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->\n                    <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.8276198042377!2d106.78899611419426!3d-6.2863765632802915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1c3ae6a50d1%3A0x22567da71679d42b!2sJl.+Haji+Batong+III%2C+Cilandak%2C+Kota+Jakarta+Selatan%2C+Daerah+Khusus+Ibukota+Jakarta+12430!5e0!3m2!1sid!2sid!4v1455258599563\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>\n                </div>\n                <div class=\"col-lg-12 text center\">\n                    <p>Phone: <strong>08561386256</strong>\n                    </p>\n                    <p>Email: <strong>arifinm62@gmail.com</strong>\n                    </p>\n                    <p>Address: <strong>Jl H Batong III/39 Cilandak Barat<br>Cilandak, Jakarta Selatan</strong>\n                    </p>\n                </div>\n                <div class=\"clearfix\"></div>\n            </div>\n        </div>\n\n        <div class=\"row\">\n            <div class=\"box\">\n                <div class=\"col-lg-12\">\n                    <hr>\n                    <h2 class=\"intro-text text-center\">Contact <strong>form</strong>\n                    </h2>\n                    <hr>\n                    <p>Silahkan bagi teman-teman yang ingin menghubungi saya bisa kirim email dengan mengisi form di bawah ini</p>\n                    <form role=\"form\">\n                        <div class=\"row\">\n                            <div class=\"form-group col-lg-4\">\n                                <label>Name</label>\n                                <input type=\"text\" class=\"form-control\">\n                            </div>\n                            <div class=\"form-group col-lg-4\">\n                                <label>Email Address</label>\n                                <input type=\"email\" class=\"form-control\">\n                            </div>\n                            <div class=\"form-group col-lg-4\">\n                                <label>Phone Number</label>\n                                <input type=\"tel\" class=\"form-control\">\n                            </div>\n                            <div class=\"clearfix\"></div>\n                            <div class=\"form-group col-lg-12\">\n                                <label>Message</label>\n                                <textarea class=\"form-control\" rows=\"6\"></textarea>\n                            </div>\n                            <div class=\"form-group col-lg-12\">\n                                <input type=\"hidden\" name=\"save\" value=\"contact\">\n                                <button type=\"submit\" class=\"btn btn-default\">Proses</button>\n                            </div>\n                        </div>\n                    </form>\n                </div>\n            </div>\n        </div>\n\n    </div>\n    <!-- /.container -->\n\n    <footer>\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12 text-center\">\n                    <p>Copyright &copy; Muhammad Arifin Nursalim</p>\n                </div>\n            </div>\n        </div>\n    </footer>\n\n    <!-- JavaScript -->\n    <script src=\"js/jquery-1.10.2.js\"></script>\n    <script src=\"js/bootstrap.js\"></script>\n\n</body>\n\n</html>\n",
+					"file": "/C/xampp/htdocs/cv/contact.html",
+					"file_size": 5533,
+					"file_write_time": 131478467100325341,
+					"settings":
+					{
+						"buffer_size": 5404,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/cv/css/bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 122998,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/htdocs/absensi2014/asset/css/style.css",
+				"/C/xampp/htdocs/absensi2014/application/config/database.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"meta",
+					"div",
+					"Cilandak",
+					"href",
+					"><",
+					"absen",
+					"siswa",
+					"absen",
+					"terlambat",
+					"kelas",
+					"siswa",
+					"nis",
+					"kelas",
+					"siswa",
+					"kelas",
+					"nis",
+					"siswa",
+					"nis",
+					"nilai",
+					"kelas",
+					"siswa",
+					"nis",
+					"siswa",
+					"kelas",
+					"siswa",
+					"kelas"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/C/xampp/htdocs/cv"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/xampp/htdocs/cv/rumahngoding",
+							"settings":
+							{
+								"buffer_size": 5,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5,
+										5
+									]
+								],
+								"settings":
+								{
+									"auto_name": "html",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/xampp/htdocs/cv/about.html",
+							"settings":
+							{
+								"buffer_size": 3981,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										378,
+										378
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/big bos/cv/Data/Packages/Default/Preferences.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 13677,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/F/big bos/cv/Data/Packages/User/Preferences.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 23,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18,
+										18
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/xampp/htdocs/cv/contact.html",
+							"settings":
+							{
+								"buffer_size": 5404,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1052,
+										1052
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 120.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/xampp/htdocs/cv/css/bootstrap.css",
+							"settings":
+							{
+								"buffer_size": 122998,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										169,
+										169
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,2,3,-32000,-32000,-1,-1,669,130,130,786",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 23,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
